@@ -1,4 +1,5 @@
 ﻿//mzoun almutairi, sara alyami, hadeel alrshood, raghad alqarni//
+//supervised by L.Tagreed balhareth//
 #include <iostream>
 #include <fstream>
 using namespace std;
